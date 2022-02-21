@@ -1,0 +1,5 @@
+package com.ekart.users.dtos;
+
+public class Response {
+
+}

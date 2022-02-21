@@ -1,0 +1,8 @@
+package com.ekart.users.dtos;
+
+public class User {
+       String userId;
+       Integer accountType;
+       String name;
+       String Email;
+}

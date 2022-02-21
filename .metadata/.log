@@ -1,0 +1,715 @@
+!SESSION 2022-02-21 11:05:52.436 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -data C:\Users\saini\OneDrive\Desktop\Preparation\Project\Ekart\Backend\Users -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2022-02-21 11:06:01.689
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-02-21 11:06:01.689
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@40cb95c1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1ead3c67,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2022-02-21 11:06:11.229
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\saini'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY Activator 1 0 2022-02-21 11:31:18.317
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 11:31:21.310
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 11:31:21.991
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 11:31:23.182
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 11:32:59.254
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 11:32:59.607
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 11:48:03.781
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 11:48:05.616
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 11:48:33.790
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 11:48:47.507
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 11:48:48.751
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 11:48:51.672
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 11:48:54.513
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 11:49:09.412
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 11:49:11.212
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 11:49:12.847
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 11:49:14.030
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 11:49:16.889
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 11:49:17.241
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 11:53:27.470
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 11:53:30.381
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 11:57:58.049
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 11:57:59.383
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 11:57:59.798
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 11:58:01.670
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 11:58:05.230
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 11:58:23.150
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 11:58:26.370
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 11:58:26.767
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 11:58:28.101
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY org.eclipse.ui 2 2 2022-02-21 13:15:32.409
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2022-02-21 13:27:11.252
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 13:27:15.324
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 13:28:05.070
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 13:28:05.859
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 13:28:57.533
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 13:28:58.552
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 15:17:54.644
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 15:18:05.713
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 15:18:23.440
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 15:18:24.731
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-21 15:21:15.163
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-21 15:21:15.166
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@3890dcc7[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-21 15:21:15.614
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-21 15:21:17.863
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY Activator 1 0 2022-02-21 15:21:17.985
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 15:21:19.100
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 15:21:25.573
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-21 15:22:00.986
+!MESSAGE Boot LS startup time from start to initialized: 45024ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-21 15:22:02.694
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.lfKGHfrQisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-21 15:22:03.123
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-21 15:22:03.248
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-21 15:22:03.249
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-21 15:22:03.250
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-21 15:22:03.251
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.lfKGHfrQ => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-21 15:22:03.276
+!MESSAGE classpath=90 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-21 15:22:03.284
+!MESSAGE buffering callback sts4.classpath.lfKGHfrQ ekart false 90
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-21 15:22:03.286
+!MESSAGE executing callback sts4.classpath.lfKGHfrQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-21 15:22:05.230
+!MESSAGE executing callback sts4.classpath.lfKGHfrQ SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 4 0 2022-02-21 15:24:23.032
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.jdt.LSJavaCompletionProposalComputer.asJavaProposals(LSJavaCompletionProposalComputer.java:91)
+	at org.eclipse.lsp4e.jdt.LSJavaCompletionProposalComputer.computeCompletionProposals(LSJavaCompletionProposalComputer.java:59)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:348)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:340)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:333)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:289)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$10(AsyncCompletionProposalPopup.java:352)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$9(AsyncCompletionProposalPopup.java:351)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1756)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:295)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+
+!ENTRY Activator 1 0 2022-02-21 15:24:40.207
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 15:26:09.288
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY org.eclipse.lsp4e 2 0 2022-02-21 15:28:23.515
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2022-02-21 15:28:39.399
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 15:28:43.665
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 15:28:46.763
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 15:29:19.672
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 15:29:22.796
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 15:29:41.826
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 15:29:43.660
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 15:29:47.452
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 15:31:55.575
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 15:31:56.038
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 15:32:26.732
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 15:32:27.017
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 17:26:29.496
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 17:26:31.093
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 17:29:25.029
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 17:29:25.682
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 17:29:30.577
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 17:29:32.456
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 17:29:32.819
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 17:34:07.784
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 17:34:08.349
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 17:35:43.633
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 17:35:44.314
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 17:40:22.828
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 17:40:23.488
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 17:41:54.152
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 17:41:55.811
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 17:41:55.946
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 17:55:12.586
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 17:55:12.732
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 18:25:06.075
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 18:25:06.984
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 18:25:23.047
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 18:25:23.607
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 18:25:32.144
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 18:25:32.790
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 18:29:01.520
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 18:29:02.125
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY org.eclipse.ui 4 0 2022-02-21 18:45:47.161
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.e4.core.di.InjectionException: org.eclipse.swt.SWTException: i/o error (java.io.FileNotFoundException: C:\Program Files\Git\mingw64\share\git\git-for-windows.ico (The system cannot find the path specified))
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:68)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:236)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:133)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4742)
+	at org.eclipse.e4.ui.workbench.swt.DisplayUISynchronize.syncExec(DisplayUISynchronize.java:34)
+	at org.eclipse.e4.ui.internal.di.UIEventObjectSupplier$UIEventHandler.handleEvent(UIEventObjectSupplier.java:64)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:205)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:203)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:133)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:75)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:63)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:424)
+	at org.eclipse.e4.ui.model.application.ui.impl.UIElementImpl.setVisible(UIElementImpl.java:361)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributionRecord.updateVisibility(ContributionRecord.java:113)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRendererFilter.updateElementVisibility(MenuManagerRendererFilter.java:191)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRendererFilter.updateElementVisibility(MenuManagerRendererFilter.java:202)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerShowProcessor.showMenu(MenuManagerShowProcessor.java:256)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerShowProcessor.menuAboutToHide(MenuManagerShowProcessor.java:114)
+	at org.eclipse.jface.internal.MenuManagerEventHelper.showEventPostHelper(MenuManagerEventHelper.java:95)
+	at org.eclipse.jface.action.MenuManager.handleAboutToShow(MenuManager.java:469)
+	at org.eclipse.jface.action.MenuManager.access$1(MenuManager.java:463)
+	at org.eclipse.jface.action.MenuManager$2.menuShown(MenuManager.java:495)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:259)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1048)
+	at org.eclipse.swt.widgets.Control.WM_INITMENUPOPUP(Control.java:5157)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4789)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1480)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2263)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4930)
+	at org.eclipse.swt.internal.win32.OS.TrackPopupMenu(Native Method)
+	at org.eclipse.swt.widgets.Menu._setVisible(Menu.java:237)
+	at org.eclipse.swt.widgets.Display.runPopups(Display.java:4067)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3620)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+Caused by: org.eclipse.swt.SWTException: i/o error (java.io.FileNotFoundException: C:\Program Files\Git\mingw64\share\git\git-for-windows.ico (The system cannot find the path specified))
+	at org.eclipse.swt.SWT.error(SWT.java:4893)
+	at org.eclipse.swt.SWT.error(SWT.java:4808)
+	at org.eclipse.swt.graphics.ImageLoader.load(ImageLoader.java:184)
+	at org.eclipse.tm.terminal.view.ui.local.showin.ExternalExecutablesUtils.loadImage(ExternalExecutablesUtils.java:38)
+	at org.eclipse.tm.terminal.view.ui.local.showin.DynamicContributionItems.getContributionItems(DynamicContributionItems.java:74)
+	at org.eclipse.ui.actions.CompoundContributionItem.getContributionItemsToFill(CompoundContributionItem.java:83)
+	at org.eclipse.ui.actions.CompoundContributionItem.fill(CompoundContributionItem.java:57)
+	at org.eclipse.ui.internal.menus.DynamicMenuContributionItem.fill(DynamicMenuContributionItem.java:146)
+	at org.eclipse.jface.action.MenuManager.doItemFill(MenuManager.java:729)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:806)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:673)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.scheduleManagerUpdate(MenuManagerRenderer.java:1227)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.subscribeUIElementTopicVisible(MenuManagerRenderer.java:213)
+	at jdk.internal.reflect.GeneratedMethodAccessor40.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	... 63 more
+Caused by: java.io.FileNotFoundException: C:\Program Files\Git\mingw64\share\git\git-for-windows.ico (The system cannot find the path specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:108)
+	at org.eclipse.swt.graphics.ImageLoader.load(ImageLoader.java:181)
+	... 77 more
+
+!ENTRY Activator 1 0 2022-02-21 18:46:16.339
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 18:46:20.113
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY org.eclipse.ui 4 0 2022-02-21 18:47:04.781
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.e4.core.di.InjectionException: org.eclipse.swt.SWTException: i/o error (java.io.FileNotFoundException: C:\Program Files\Git\mingw64\share\git\git-for-windows.ico (The system cannot find the path specified))
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:68)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:236)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:133)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4742)
+	at org.eclipse.e4.ui.workbench.swt.DisplayUISynchronize.syncExec(DisplayUISynchronize.java:34)
+	at org.eclipse.e4.ui.internal.di.UIEventObjectSupplier$UIEventHandler.handleEvent(UIEventObjectSupplier.java:64)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:205)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:203)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:133)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:75)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:63)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:424)
+	at org.eclipse.e4.ui.model.application.ui.impl.UIElementImpl.setVisible(UIElementImpl.java:361)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributionRecord.updateVisibility(ContributionRecord.java:113)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRendererFilter.updateElementVisibility(MenuManagerRendererFilter.java:191)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRendererFilter.updateElementVisibility(MenuManagerRendererFilter.java:202)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerShowProcessor.showMenu(MenuManagerShowProcessor.java:256)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerShowProcessor.menuAboutToHide(MenuManagerShowProcessor.java:114)
+	at org.eclipse.jface.internal.MenuManagerEventHelper.showEventPostHelper(MenuManagerEventHelper.java:95)
+	at org.eclipse.jface.action.MenuManager.handleAboutToShow(MenuManager.java:469)
+	at org.eclipse.jface.action.MenuManager.access$1(MenuManager.java:463)
+	at org.eclipse.jface.action.MenuManager$2.menuShown(MenuManager.java:495)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:259)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1048)
+	at org.eclipse.swt.widgets.Control.WM_INITMENUPOPUP(Control.java:5157)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4789)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1480)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2263)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4930)
+	at org.eclipse.swt.internal.win32.OS.TrackPopupMenu(Native Method)
+	at org.eclipse.swt.widgets.Menu._setVisible(Menu.java:237)
+	at org.eclipse.swt.widgets.Display.runPopups(Display.java:4067)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3620)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+Caused by: org.eclipse.swt.SWTException: i/o error (java.io.FileNotFoundException: C:\Program Files\Git\mingw64\share\git\git-for-windows.ico (The system cannot find the path specified))
+	at org.eclipse.swt.SWT.error(SWT.java:4893)
+	at org.eclipse.swt.SWT.error(SWT.java:4808)
+	at org.eclipse.swt.graphics.ImageLoader.load(ImageLoader.java:184)
+	at org.eclipse.tm.terminal.view.ui.local.showin.ExternalExecutablesUtils.loadImage(ExternalExecutablesUtils.java:38)
+	at org.eclipse.tm.terminal.view.ui.local.showin.DynamicContributionItems.getContributionItems(DynamicContributionItems.java:74)
+	at org.eclipse.ui.actions.CompoundContributionItem.getContributionItemsToFill(CompoundContributionItem.java:83)
+	at org.eclipse.ui.actions.CompoundContributionItem.fill(CompoundContributionItem.java:57)
+	at org.eclipse.ui.internal.menus.DynamicMenuContributionItem.fill(DynamicMenuContributionItem.java:146)
+	at org.eclipse.jface.action.MenuManager.doItemFill(MenuManager.java:729)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:806)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:673)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.scheduleManagerUpdate(MenuManagerRenderer.java:1227)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.subscribeUIElementTopicVisible(MenuManagerRenderer.java:213)
+	at jdk.internal.reflect.GeneratedMethodAccessor40.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	... 63 more
+Caused by: java.io.FileNotFoundException: C:\Program Files\Git\mingw64\share\git\git-for-windows.ico (The system cannot find the path specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:108)
+	at org.eclipse.swt.graphics.ImageLoader.load(ImageLoader.java:181)
+	... 77 more
+
+!ENTRY Activator 1 0 2022-02-21 18:47:23.118
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 18:47:24.258
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY org.eclipse.lsp4e 4 0 2022-02-21 18:52:00.006
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.operations.declaration.OpenDeclarationHyperlinkDetector.detectHyperlinks(OpenDeclarationHyperlinkDetector.java:94)
+	at org.eclipse.ui.texteditor.HyperlinkDetectorRegistry$HyperlinkDetectorDelegate.detectHyperlinks(HyperlinkDetectorRegistry.java:81)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:289)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:262)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.mouseDown(HyperlinkManager.java:408)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:196)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4026)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3626)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY Activator 1 0 2022-02-21 18:55:57.238
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 18:55:57.863
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 18:56:04.378
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 18:56:05.068
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 18:58:58.171
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 18:58:58.803
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 19:00:25.057
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 19:00:25.790
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY org.eclipse.lsp4e 2 0 2022-02-21 19:01:26.562
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2022-02-21 19:01:51.698
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 19:01:52.326
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 19:01:59.043
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 19:01:59.869
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 19:03:06.374
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 19:03:06.980
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 19:13:32.089
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 19:13:32.691
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY org.eclipse.lsp4e 2 0 2022-02-21 19:13:54.278
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2022-02-21 19:14:03.407
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 19:14:04.155
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 20:31:48.019
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 20:32:03.648
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 20:32:04.734
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 20:32:04.918
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 20:32:05.775
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY Activator 1 0 2022-02-21 20:33:04.275
+!MESSAGE Has main method computation for project 'ekart'
+
+!ENTRY org.eclipse.ui.ide 4 4 2022-02-21 20:33:20.357
+!MESSAGE Problems saving workspace
+
+!ENTRY org.eclipse.ui.ide 2 1 2022-02-21 20:33:20.359
+!MESSAGE Problems occurred while trying to save the state of the workbench.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2022-02-21 20:33:20.359
+!MESSAGE The project description file (.project) for 'ekart' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+
+!ENTRY org.eclipse.core.resources 2 10035 2022-02-21 20:33:51.466
+!MESSAGE The workspace will exit with unsaved changes in this session.

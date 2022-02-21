@@ -1,0 +1,6 @@
+package com.ekart.users.dtos;
+
+public class UserDetailsModificationDto {
+      String name;
+      String Password;
+}
