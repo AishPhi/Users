@@ -1,0 +1,7 @@
+package com.ekart.users.dtos;
+
+public class ModificationResponseDto {
+       String UserId;
+       String ResponseCode;
+       S
+}
